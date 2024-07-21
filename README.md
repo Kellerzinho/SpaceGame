@@ -1,10 +1,11 @@
 # SpaceGame
 # Descrição
-Space Game é um jogo 2D de tiro espacial desenvolvido em C++ utilizando a biblioteca SFML. O jogador controla uma nave espacial, enfrentando inimigos para aumentar a pontuação. O projeto foi criado como um hobby durante as férias de inverno.
+Space Game é um jogo 2D de tiro espacial desenvolvido em C++ utilizando a biblioteca SFML. O jogador controla uma nave espacial, enfrentando inimigos para aumentar a pontuação. O projeto foi criado como aplicação do 
+Curso de Criação de Games com C++ e SFML (Windows e Linux) durante as férias de inverno.
 # Funcionalidades
 Controle da Nave Espacial: Movimente a nave com as teclas de direção do teclado e dispare com a barra de espaço.
-Animações: Explosões e efeitos visuais imersivos.
-Áudio: Trilha sonora envolvente e efeitos sonoros de disparos e explosões.
+Animações: Explosões e efeitos visuais.
+Áudio: Trilha sonora e efeitos sonoros de disparos e explosões.
 Pontuação: Sistema de pontuação para competir pelo maior score.
 # Capturas de Tela
 ![image](https://github.com/user-attachments/assets/f7de209e-5cd5-47a5-a9ee-7ac149ca7d14)
