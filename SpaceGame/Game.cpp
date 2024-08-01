@@ -144,7 +144,7 @@ Game::Game() {
     destroyed->setScale(2.f, 2.f);
     destroyed->setPosition(window->getSize().x / 2 - destroyed->getGlobalBounds().width / 2, window->getSize().y / 2 - destroyed->getGlobalBounds().height / 2);
     destroyed_frame = 0.f;
-    destroyed_speed = 0.2f;
+    destroyed_speed = 0.09f;
     destroyed_count = 15;
     destroyed_max = 0;
     death = false;

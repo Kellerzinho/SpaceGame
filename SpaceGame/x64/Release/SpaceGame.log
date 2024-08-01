@@ -1,0 +1,20 @@
+﻿  Game.cpp
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(211,41): warning C4267: 'argumento': conversão de 'size_t' para '_Ty', possível perda de dados
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(211,41): warning C4267:         with
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(211,41): warning C4267:         [
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(211,41): warning C4267:             _Ty=int
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(211,41): warning C4267:         ]
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(229,45): warning C4267: 'argumento': conversão de 'size_t' para '_Ty', possível perda de dados
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(229,45): warning C4267:         with
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(229,45): warning C4267:         [
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(229,45): warning C4267:             _Ty=int
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(229,45): warning C4267:         ]
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(238,16): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(275,16): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Keller_\Desktop\Projetos\SpaceGame\SpaceGame\Game.cpp(376,55): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+  Gerando código
+  1 of 398 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  SpaceGame.vcxproj -> C:\Users\Keller_\Desktop\Projetos\SpaceGame\x64\Release\SpaceGame.exe
